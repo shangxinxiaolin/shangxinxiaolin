@@ -11,6 +11,6 @@
 ### No internship experience yet
 
 ## Technology stack
-### Programming languages: c++ javascript go
-### Development tools:vscode pnpm vite chromium git tmuxs
-### Operating system: Linux
+### Programming languages: CSS javascript html go Java php c++
+### Development tools:vscode IDEA pnpm vite chromium git tmuxs
+### Operating system: macOS windows

@@ -51,14 +51,14 @@ Windows, macOS
 
 ---
 
-### Campus Community Discussion Service
+### Gym Membership & Reservation Service
 **Tech Stack:** Go, Gin, PostgreSQL, Redis  
 
-- Developed a lightweight backend service for a community-oriented discussion platform  
-- Implemented APIs for user authentication, content publishing, and commenting  
-- Designed relational database schemas and managed data persistence using PostgreSQL  
-- Introduced Redis for basic caching and performance optimization  
-- Emphasized clean API design and maintainable service structure  
+- Developed backend services for gym membership management and class reservations  
+- Implemented RESTful APIs for member registration, session booking, and reservation cancellation  
+- Designed relational database schemas for members, trainers, schedules, and reservations  
+- Used Redis to cache frequently accessed class schedules and availability data  
+- Focused on reliable reservation workflows and maintainable backend architecture  
 
 ---
 
@@ -69,4 +69,5 @@ Windows, macOS
 
 ## Notes
 Projects listed above are personal practice projects and are continuously being refined.
+
 

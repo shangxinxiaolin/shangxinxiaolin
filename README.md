@@ -4,6 +4,8 @@
 Backend-oriented full-stack developer focusing on RESTful services,  
 database-driven applications, and modern container-based workflows.
 
+Currently a first-year undergraduate student majoring in Computer Science.
+
 ---
 
 ## Technical Skills
@@ -63,4 +65,8 @@ Windows, macOS
 ## Internship Experience
 *(To be added)*
 
+---
+
+## Notes
+Projects listed above are personal practice projects and are continuously being refined.
 

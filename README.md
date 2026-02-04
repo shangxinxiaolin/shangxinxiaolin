@@ -11,7 +11,7 @@ Currently a first-year undergraduate student majoring in Computer Science.
 ## Technical Skills
 
 ### Programming Languages
-Java, Go, TypeScript, JavaScript, C++
+Java, Go, PHP,TypeScript, JavaScript, C++
 
 ### Backend Development
 - Spring Boot, Spring Security  
